@@ -9,3 +9,12 @@ I done PadawansTask3 https://github.com/nataliakoranchuk/PadawansTask3<br>
 I done FancyCalc     https://github.com/nataliakoranchuk/FancyCalc<br>
 I done PadawansTask4 https://github.com/nataliakoranchuk/PadawansTask4 <br>
 I done PadawansTask5 https://github.com/nataliakoranchuk/PadawansTask5 <br>
+I done PadawansTask6 https://github.com/nataliakoranchuk/PadawansTask6 <br>
+I done PadawansTask7 https://github.com/nataliakoranchuk/PadawansTask7 <br>
+I done PadawansTask8 https://github.com/nataliakoranchuk/PadawansTask8 <br>
+I done PadawansTask9 https://github.com/nataliakoranchuk/PadawansTask9 <br>
+I done PadawansTask10 https://github.com/nataliakoranchuk/PadawansTask10 <br>
+I done PadawansTask11 https://github.com/nataliakoranchuk/PadawansTask11 <br>
+I done PadawansTask12 https://github.com/nataliakoranchuk/PadawansTask12 <br>
+I done PadawansTask13 https://github.com/nataliakoranchuk/PadawansTask13 <br>
+I done PadawansTask15 https://github.com/nataliakoranchuk/PadawansTask15<br>
