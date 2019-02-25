@@ -1,6 +1,7 @@
 ## Welcome to my Pages
 
 This is my profile. 
+This is my profile. 
 It's my codewars https://www.codewars.com/users/kira24 . I do task kata. <br>
 <br>
 I done PadawansTask1 https://github.com/nataliakoranchuk/PadawansTask1<br>
@@ -14,4 +15,8 @@ I done PadawansTask7 https://github.com/nataliakoranchuk/PadawansTask7 <br>
 I done PadawansTask8 https://github.com/nataliakoranchuk/PadawansTask8 <br>
 I done PadawansTask9 https://github.com/nataliakoranchuk/PadawansTask9 <br>
 I done PadawansTask10 https://github.com/nataliakoranchuk/PadawansTask10 <br>
+I done PadawansTask11 https://github.com/nataliakoranchuk/PadawansTask11 <br>
+I done PadawansTask12 https://github.com/nataliakoranchuk/PadawansTask12 <br>
 I done PadawansTask13 https://github.com/nataliakoranchuk/PadawansTask13 <br>
+I done PadawansTask15 https://github.com/nataliakoranchuk/PadawansTask15<br>
+
